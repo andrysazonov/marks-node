@@ -14,7 +14,7 @@
   "author": "vatergo",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.38",
+    "babel": "^6.23.0",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
     "express": "^4.16.4",
@@ -27,8 +27,8 @@
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.2.0",
-    "babel": "5.x",
-    "babel-loader": "5.*",
+    "babel": "6.x",
+    "babel-loader": "9.*",
     "css-loader": "^2.1.1",
     "file-loader": "^0.8.5",
     "json-loader": "^0.5.4",
